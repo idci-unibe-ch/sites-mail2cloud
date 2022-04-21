@@ -4,25 +4,31 @@ site_name: Mail2Cloud Onboarding
 site_dir: site
 theme:
   name: material
+  icon:
+    logo: material/cloud-upload
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: cyan
+      primary: teal
+      accent: amber
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: cyan
+      primary: teal
+      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - search.suggest
+    - search.highlight
 extra_css:
  - 'stylesheets/unibe.css'
 use_directory_urls: false
@@ -43,23 +49,38 @@ markdown_extensions:
   - footnotes
   - tables
   - admonition
-  - codehilite:
-      guess_lang: false
+  # - codehilite:
+  #     guess_lang: false
   - sane_lists
   - smarty
   - toc
-  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - attr_list
+  - md_in_html
 
 plugins:
   - search
 
 nav:
   - Home: index.md
-  # - Namenskonventionen: conventions/naming-conventions.md
-  # - Migration:
+  - Vor der Migration: migration/pre-migration.md
+  - Nach der Migration: migration/post-migration.md
+  - Unterstützte Clients: migration/supported-clients.md
+  - MFA Timings und MEM: migration/mfa-mem.md
+  - Neue Möglichkeiten: migration/new-possibilities.md
   #   - Migrationsdaten: migration/migration-dates.md
   #   - Migrationsablauf: migration/migration-procedure.md
   #   - Kommunikation: migration/migration-communication.md
