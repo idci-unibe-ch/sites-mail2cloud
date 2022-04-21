@@ -18,7 +18,7 @@ hide:
 
 **Organisationseinheit:** Informatikdienste (ID)  
 **Migrationsfenster:** 25.04.2022 - 27.04.2022  
-**Support:** [aai.id@unibe.ch](mailto:aai.id@unibe.ch)  
+**Support:** [mail-support@unibe.ch](mailto:mail-support@unibe.ch)  
 **Anleitungen (Entwurf):** [Service Portal](https://serviceportal.unibe.ch/sp?id=kb_article_view&sysparm_article=KB0010440)  
 
 ## Migrationsstatus
