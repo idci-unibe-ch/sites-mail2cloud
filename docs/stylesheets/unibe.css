@@ -89,3 +89,17 @@ article > ol li::before {
     margin: 0px;
     margin-bottom: 16px;
 }
+
+/*Added for onboarding sites*/
+
+.md-typeset .grid p:last-child {
+    text-align: end;
+}
+
+article h1 {
+    display: none;
+}
+
+.md-footer__inner {
+    display: none
+}
