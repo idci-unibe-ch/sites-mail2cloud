@@ -27,6 +27,7 @@ Clients welche eine Modern Authentication(1) unterstützen, können auch weiterh
 Der Vorteile dieser standardisierten Protokolle liegt darin, dass diverse Bedingungen für eine sichere Kommunikation erfüllt sein müssen und Erweiterungen wie MFA, Passwordless oder auch Conditional Access Policies unterstützt werden.
 
 Wir haben versucht die gängigen Clients vorzuerfassen, welche dies bereits heute unterstützen, falls Sie jedoch einen Client verwenden den wir noch nicht registriert haben, wird bei der Anmeldung eine Fehlermeldung mit einem Hinweis angezeigt, dass Sie sich an Ihren Administrator wenden sollen.  
+![Client registering notification](./img/clients-not-registered-alt.png){ width="350" } 
 ![Client registering notification](./img/clients-not-registered.png){ width="500" }
 
 Melden Sie sich in einem solchen Fall bei uns [aai.id@unibe.ch](mailto:aai.id@unibe.ch) damit wir prüfen können, ob der Client hinzugefügt werden kann.
