@@ -7,7 +7,7 @@ hide:
 
 Wir haben festgestellt, dass ein aktiver Outlook Cache dazu führt, dass Kontakt- und Kalenderobjekte doppelt angezeigt werden und der lokale Cache sich nicht aktualisiert.  
 
-**Wir empfehlen daher dringend, den Outlook Cache vor der Migration zu deaktivieren** und auch nach der Migration deaktivert zu lassen oder frühestens nach 14 Tagen zu reaktivieren.  
+**Wir empfehlen daher dringend, den Outlook Cache vor der Migration zu deaktivieren** und auch nach der Migration deaktiviert zu lassen oder frühestens nach 14 Tagen zu reaktivieren.  
 
 ### Outlook für Windows
 
@@ -15,7 +15,7 @@ Wir haben festgestellt, dass ein aktiver Outlook Cache dazu führt, dass Kontakt
 2. Klicken Sie auf ***File***  
 ![Outlook Einstellungen](./img/pre-win-disable-cache-01.png){ width="500" }  
 
-3. Wechseln Sie in die Accounteinstellungen  
+3. Wechseln Sie in die Account-Einstellungen  
 ![Account Settings](./img/pre-win-disable-cache-02.png){ width="500" }  
 
 4. Wählen Sie Ihren Account an und bearbeiten Sie die Einstellungen durch einen Klick auf ***Change...***  
