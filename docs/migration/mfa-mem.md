@@ -7,7 +7,7 @@ hide:
     Der Abschnitt befindet sich im Aufbau.
 
 ## Multifaktor Authentifizierung (MFA)
-Gleichzeitig mit der Migration Ihres Postfaches in die Cloud, werden wir auch die Multifaktor Authentifizierung für Ihren Account aktivieren.  
+Gleichzeitig mit der Migration Ihres Postfaches in die Cloud werden wir auch die Multifaktor Authentifizierung für Ihren Account aktivieren.  
 
 ![MFA Overview](./img/mfa-overview_dark.png#only-dark){ width="800" }
 ![MFA Overview](./img/mfa-overview_light.png#only-light){ width="800" }
@@ -19,7 +19,7 @@ Wir unterstützen an der Universität Bern die nachfolgenden MFA Methoden.
 
 #### Bevorzugte Methode
 - Push via Microsoft Authenticator  
-Sie erhalten eine Beanchrichtigung auf Ihrem Smartphone, welche Sie bestätigen oder ablehnen können.  
+Sie erhalten eine Benachrichtigung auf Ihrem Smartphone, welche Sie bestätigen oder ablehnen können.  
 ![MFA MS Authenticator](./img/mfa-msauthenticator-message.png){ width="400" }
 
 #### Weitere Methoden
@@ -30,7 +30,7 @@ Sie erhalten eine Beanchrichtigung auf Ihrem Smartphone, welche Sie bestätigen 
 - *(Early Adopter) Passwordless via FIDO2*
 
 !!! warning
-    Sollten Sie noch die Methode "Anruf per Telefon" aktiviert haben, empfehlen wir dringend diese gegen eine andere Methode zu ersetzen, da sie in den nächsten Monaten deaktiviert wird.
+    Sollten Sie noch die Methode "Anruf per Telefon" aktiviert haben, empfehlen wir dringend, diese gegen eine andere Methode zu ersetzen, da sie in den nächsten Monaten deaktiviert wird.
 
 ### Wo muss ich MFA durchführen?
 MFA ist derzeit bei folgenden Dienstleistungen aktiv:  
