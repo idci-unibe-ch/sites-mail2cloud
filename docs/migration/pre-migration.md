@@ -9,6 +9,11 @@ Wir haben festgestellt, dass ein aktiver Outlook Cache dazu führt, dass Kontakt
 
 **Wir empfehlen daher dringend, den Outlook Cache vor der Migration zu deaktivieren** und auch nach der Migration deaktiviert zu lassen oder frühestens nach 14 Tagen zu reaktivieren.  
 
+### Outlook für macOS
+Outlook für macOS muss zwingend mit einem Cache arbeiten, entsprechend kann der Cache dort nicht deaktiviert werden.  
+Sollte bei Ihnen nach der Migration das oben beschriebene Problem auftreten, können Sie den Cache aber [manuell leeren](https://support.microsoft.com/de-de/office/leeren-des-caches-in-outlook-f%C3%BCr-mac-6f230dfa-7f12-4606-bb1a-55ee19087033).  
+
+
 ### Outlook für Windows
 
 1. Öffnen Sie den Outlook Client
