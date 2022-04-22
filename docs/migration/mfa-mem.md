@@ -112,6 +112,6 @@ Da dieser Account nicht durch die Universität Bern verwaltet wird, gelten die V
 
 [:fontawesome-solid-circle-chevron-left: Unterstützte Clients ](../migration/supported-clients.md){ .md-button }
 
-[Neue Möglichkeiten :fontawesome-solid-circle-chevron-right:](../migration/new-possibilities.md){ .md-button .md-button--primary }
+[Teams Telefonie :fontawesome-solid-circle-chevron-right:](../migration/teams-phonecalls.md){ .md-button .md-button--primary }
 
 </div>

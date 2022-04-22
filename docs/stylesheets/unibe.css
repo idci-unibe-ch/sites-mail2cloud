@@ -42,7 +42,7 @@
     box-decoration-break: clone;
 }
 
-/*
+
 article > ol li {
     min-height: 4em;
     counter-increment: li;
@@ -50,7 +50,7 @@ article > ol li {
     margin: 0 0 1.4em 2em;
     padding: 4px 8px;
     list-style: none;
-    border-top: 1px solid rgba(0,0,0,.14);
+    border-top: 1px solid var(--md-primary-fg-color);
 }
 
 article > ol li::before {
@@ -65,11 +65,11 @@ article > ol li::before {
     margin-right: 8px;
     padding: 4px;
     color: #fff;
-    background: #707070;
+    background: var(--md-primary-fg-color);
     font-weight: 700;
     text-align: center;
 }
-*/
+
 
 .md-typeset dl {
     padding: 0;

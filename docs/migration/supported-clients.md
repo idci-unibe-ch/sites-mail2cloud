@@ -40,6 +40,6 @@ Clients, die auf unsichere Authentisierungsmechanismen setzen, sind nach der Mig
 
 [:fontawesome-solid-circle-chevron-left: Nach der Migration ](../migration/post-migration.md){ .md-button }
 
-[MFA Timings und MEM :fontawesome-solid-circle-chevron-right:](../migration/mfa-mem.md){ .md-button .md-button--primary }
+[MFA und MEM :fontawesome-solid-circle-chevron-right:](../migration/mfa-mem.md){ .md-button .md-button--primary }
 
 </div>
