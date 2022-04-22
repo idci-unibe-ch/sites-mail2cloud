@@ -75,11 +75,13 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
+  - Onboarding: index.md
+  - Migrationsablauf: migration/migration-flow.md
   - Vor der Migration: migration/pre-migration.md
   - Nach der Migration: migration/post-migration.md
   - Unterstützte Clients: migration/supported-clients.md
-  - MFA Timings und MEM: migration/mfa-mem.md
+  - MFA und MEM: migration/mfa-mem.md
+  - Teams Telefonie: migration/teams-phonecalls.md
   - Neue Möglichkeiten: migration/new-possibilities.md
   #   - Migrationsdaten: migration/migration-dates.md
   #   - Migrationsablauf: migration/migration-procedure.md

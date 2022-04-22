@@ -29,12 +29,13 @@ hide:
 - [ ] Postfachmigration in die Cloud gestartet
 - [ ] Postfachmigration in die Cloud abgeschlossen
 - [ ] MFA / MEM aktiviert
+- [x] Teams Telefonie aktiviert
 
 &nbsp;  
 <div class="grid" markdown>
 
 []()
 
-[Vor der Migration :fontawesome-solid-circle-chevron-right:](migration/pre-migration.md){ .md-button .md-button--primary }
+[Migrationsablauf :fontawesome-solid-circle-chevron-right:](migration/migration-flow.md){ .md-button .md-button--primary }
 
 </div>
