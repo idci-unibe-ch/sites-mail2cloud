@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-!!! quote "Status"
-    Die Migration wird vorbereitet.
+<!-- !!! quote "Status"
+    Die Migration wird vorbereitet. -->
 
-<!-- !!! tip "Status"
-    Die Migration der Postfächer in die Cloud wurde gestartet. -->
+!!! tip "Status"
+    Die Migration der Postfächer in die Cloud wurde gestartet.
 
 <!-- !!! success "Status"
     Die Migration der Postfächer in die Cloud wurde erfolgreich abgeschlossen. -->
@@ -25,8 +25,8 @@ hide:
 
 - [x] Mail2UPN Migration der persönlichen Accounts
 - [x] Postfächer der Pilotuser in die Cloud migriert
-- [ ] Mail2UPN Migration der unpersönlichen Objekte
-- [ ] Postfachmigration in die Cloud gestartet
+- [x] Mail2UPN Migration der unpersönlichen Objekte
+- [x] Postfachmigration in die Cloud gestartet
 - [ ] Postfachmigration in die Cloud abgeschlossen
 - [ ] MFA / MEM aktiviert
 - [x] Teams Telefonie aktiviert
