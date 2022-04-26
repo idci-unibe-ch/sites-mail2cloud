@@ -7,11 +7,11 @@ hide:
 <!-- !!! quote "Status"
     Die Migration wird vorbereitet. -->
 
-!!! tip "Status"
-    Die Migration der Postfächer in die Cloud wurde gestartet.
+<!-- !!! tip "Status"
+    Die Migration der Postfächer in die Cloud wurde gestartet. -->
 
-<!-- !!! success "Status"
-    Die Migration der Postfächer in die Cloud wurde erfolgreich abgeschlossen. -->
+!!! success "Status"
+    Die Migration der Postfächer in die Cloud wurde erfolgreich abgeschlossen.
 
 <!-- !!! warning "Status"
     Die Migration dauert länger als erwartet. Wir halten Sie auf dem Laufenden. -->
@@ -27,8 +27,8 @@ hide:
 - [x] Postfächer der Pilotuser in die Cloud migriert
 - [x] Mail2UPN Migration der unpersönlichen Objekte
 - [x] Postfachmigration in die Cloud gestartet
-- [ ] Postfachmigration in die Cloud abgeschlossen
-- [ ] MFA / MEM aktiviert
+- [x] Postfachmigration in die Cloud abgeschlossen
+- [x] MFA / MEM aktiviert
 - [x] Teams Telefonie aktiviert
 
 &nbsp;  
